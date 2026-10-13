@@ -1,0 +1,28 @@
+D:\NTP\büyük küçük kontrol\büyük küçük kontrol\bin\Debug\büyük küçük kontrol.exe.config
+D:\NTP\büyük küçük kontrol\büyük küçük kontrol\bin\Debug\büyük küçük kontrol.exe
+D:\NTP\büyük küçük kontrol\büyük küçük kontrol\bin\Debug\büyük küçük kontrol.pdb
+D:\NTP\büyük küçük kontrol\büyük küçük kontrol\obj\Debug\büyük_küçük_kontrol.Form1.resources
+D:\NTP\büyük küçük kontrol\büyük küçük kontrol\obj\Debug\büyük_küçük_kontrol.Properties.Resources.resources
+D:\NTP\büyük küçük kontrol\büyük küçük kontrol\obj\Debug\büyük küçük kontrol.csproj.GenerateResource.Cache
+D:\NTP\büyük küçük kontrol\büyük küçük kontrol\obj\Debug\büyük küçük kontrol.exe
+D:\NTP\büyük küçük kontrol\büyük küçük kontrol\obj\Debug\büyük küçük kontrol.pdb
+D:\TUANA\ders notları\nesne tabanlı programlama\ntp1.dönem (cemalden aldım)\büyük küçük kontrol\büyük küçük kontrol\bin\Debug\büyük küçük kontrol.exe.config
+D:\TUANA\ders notları\nesne tabanlı programlama\ntp1.dönem (cemalden aldım)\büyük küçük kontrol\büyük küçük kontrol\bin\Debug\büyük küçük kontrol.exe
+D:\TUANA\ders notları\nesne tabanlı programlama\ntp1.dönem (cemalden aldım)\büyük küçük kontrol\büyük küçük kontrol\bin\Debug\büyük küçük kontrol.pdb
+D:\TUANA\ders notları\nesne tabanlı programlama\ntp1.dönem (cemalden aldım)\büyük küçük kontrol\büyük küçük kontrol\obj\Debug\büyük küçük kontrol.csproj.AssemblyReference.cache
+D:\TUANA\ders notları\nesne tabanlı programlama\ntp1.dönem (cemalden aldım)\büyük küçük kontrol\büyük küçük kontrol\obj\Debug\büyük_küçük_kontrol.Form1.resources
+D:\TUANA\ders notları\nesne tabanlı programlama\ntp1.dönem (cemalden aldım)\büyük küçük kontrol\büyük küçük kontrol\obj\Debug\büyük_küçük_kontrol.Properties.Resources.resources
+D:\TUANA\ders notları\nesne tabanlı programlama\ntp1.dönem (cemalden aldım)\büyük küçük kontrol\büyük küçük kontrol\obj\Debug\büyük küçük kontrol.csproj.GenerateResource.cache
+D:\TUANA\ders notları\nesne tabanlı programlama\ntp1.dönem (cemalden aldım)\büyük küçük kontrol\büyük küçük kontrol\obj\Debug\büyük küçük kontrol.csproj.CoreCompileInputs.cache
+D:\TUANA\ders notları\nesne tabanlı programlama\ntp1.dönem (cemalden aldım)\büyük küçük kontrol\büyük küçük kontrol\obj\Debug\büyük küçük kontrol.exe
+D:\TUANA\ders notları\nesne tabanlı programlama\ntp1.dönem (cemalden aldım)\büyük küçük kontrol\büyük küçük kontrol\obj\Debug\büyük küçük kontrol.pdb
+C:\Users\smy\Desktop\büyük küçük kontrol\büyük küçük kontrol\bin\Debug\büyük küçük kontrol.exe.config
+C:\Users\smy\Desktop\büyük küçük kontrol\büyük küçük kontrol\bin\Debug\büyük küçük kontrol.exe
+C:\Users\smy\Desktop\büyük küçük kontrol\büyük küçük kontrol\bin\Debug\büyük küçük kontrol.pdb
+C:\Users\smy\Desktop\büyük küçük kontrol\büyük küçük kontrol\obj\Debug\büyük küçük kontrol.csproj.AssemblyReference.cache
+C:\Users\smy\Desktop\büyük küçük kontrol\büyük küçük kontrol\obj\Debug\büyük_küçük_kontrol.Form1.resources
+C:\Users\smy\Desktop\büyük küçük kontrol\büyük küçük kontrol\obj\Debug\büyük_küçük_kontrol.Properties.Resources.resources
+C:\Users\smy\Desktop\büyük küçük kontrol\büyük küçük kontrol\obj\Debug\büyük küçük kontrol.csproj.GenerateResource.cache
+C:\Users\smy\Desktop\büyük küçük kontrol\büyük küçük kontrol\obj\Debug\büyük küçük kontrol.csproj.CoreCompileInputs.cache
+C:\Users\smy\Desktop\büyük küçük kontrol\büyük küçük kontrol\obj\Debug\büyük küçük kontrol.exe
+C:\Users\smy\Desktop\büyük küçük kontrol\büyük küçük kontrol\obj\Debug\büyük küçük kontrol.pdb
